@@ -20,9 +20,13 @@ The detection algorithm is started for the middle frame of the input video file 
 format).
 
 ```
-Usage: ./build/bin/detect video_path [output_path]
-       video_path:  path to an input avi file.
+Usage: ./build/bin/detect input_path [output_path]
+       input_format: -i input an image file.
+                     -v input an video file.
+       input_path:  path to an input file.
        output_path: path to an output file where the xy court point coordinates will be written.
+                    This argument is optional. If not present, then a window with the result will be opened.
+       output_image_path: path to an output file where the image will be written.
                     This argument is optional. If not present, then a window with the result will be opened.
 ```
 
