@@ -1,7 +1,7 @@
 # Badminton Court Detection
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
-Fully automatic algorithm for badminton court line detection. The official implementation of **Learning Coaching Tactics: Skill-aware Readiness Modeling for Interactive Badminton Training**
+Fully automatic algorithm for badminton court line detection: The official implementation of **Learning Coaching Tactics: Skill-aware Readiness Modeling for Interactive Badminton Training**
 
 <!--Fully automatic algorithm for badminton court line detection. Implementation based on Farin
 D. et al. "Robust Camera Calibration for Sports Videos using Court Models", *Storage and
